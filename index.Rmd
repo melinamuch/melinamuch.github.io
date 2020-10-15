@@ -1,7 +1,7 @@
 ---
-title: "My Website"
+title: "Melina Much, PhD Student"
 description: |
-  Welcome to the website. I hope you enjoy it!
+  Hello World!
 site: distill::distill_website
 ---
 

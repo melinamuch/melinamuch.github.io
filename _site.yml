@@ -1,7 +1,7 @@
 name: "personal-website2"
-title: "My Website"
+title: "Melina Much"
 description: |
-  My Website
+  Melina Much's Website
 output_dir: "docs"
 navbar:
   right:
@@ -9,4 +9,12 @@ navbar:
       href: index.html
     - text: "About"
       href: about.html
-output: distill::distill_article
+    - text: "Research"
+      href: about.html
+    - text: "Service and Teaching"
+      href: Service.html
+    - text: "Contact Me"
+      href: Contact.html
+output: 
+  distill::distill_article
+    css: style.css
