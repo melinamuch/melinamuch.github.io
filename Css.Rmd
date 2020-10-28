@@ -1,0 +1,11 @@
+---
+title: "CSS"
+output: html_document
+---
+
+```{css}
+distill-site-nav {
+  background-color:teal;
+}
+```
+

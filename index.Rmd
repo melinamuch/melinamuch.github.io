@@ -1,5 +1,5 @@
 ---
-title: "Melina Much, PhD Student"
+title: "Melina Much"
 description: |
   Hello World!
 site: distill::distill_website
@@ -15,4 +15,13 @@ knitr::opts_chunk$set(echo = FALSE)
 # https://rstudio.github.io/distill/publish_website.html#github-pages
 
 ```
+
+```{r profile_photo, fig.align='center', }
+knitr::include_graphics(here::here("images","profile_photo.png"))
+```
+
+
+I graduated from [Francis Marion University](https://www.fmarion.edu/) with a B.A. in both Political Science and Economics in 2018. In 2018 I also began working toward my Ph.D. in Political Science at [UC Irvine](https://www.polisci.uci.edu/), where I am investigating statistical methods for the study of political behavior and attidues using the framework intersectionality and multidimensional identities (namely race and gender). I am studying under [Dr. Ines Levin](https://sites.uci.edu/ilevin/) and [Dr. Michael Tesler](http://faculty.sites.uci.edu/mtesler/files/2018/02/cv_218.pdf) at UCI. I expect to graduate attain my Ph.D. by 2024.
+
+Here is my CV, enjoy this site! You will find tabs for my current endevours, including service projects such as the UCI Womxn's Caucus, and UCI Political Science Methods and Coding Reading Group!
 

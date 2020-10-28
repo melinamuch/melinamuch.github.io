@@ -5,16 +5,15 @@ description: |
 output_dir: "docs"
 navbar:
   right:
-    - text: "Home"
-      href: index.html
     - text: "About"
-      href: about.html
+      href: index.html
     - text: "Research"
       href: about.html
-    - text: "Service and Teaching"
+    - text: "Teaching"
+      href: about.html
+    - text: "Service"
       href: Service.html
     - text: "Contact Me"
       href: Contact.html
 output: 
   distill::distill_article
-    css: style.css

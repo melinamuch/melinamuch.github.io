@@ -1,0 +1,53 @@
+{
+  "articles": [
+    {
+      "path": "about.html",
+      "title": "About this site",
+      "description": "Some additional details about the website",
+      "author": [],
+      "contents": "\n\n\n\n",
+      "last_modified": "2020-10-28T16:00:55-07:00"
+    },
+    {
+      "path": "contact_me.html",
+      "title": "Contact Me",
+      "description": "Some additional details about the website",
+      "author": [],
+      "contents": "\nR Markdown\nThis is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see http://rmarkdown.rstudio.com.\nWhen you click the Knit button a document will be generated that includes both content as well as the output of any embedded R code chunks within the document. You can embed an R code chunk like this:\n\n\nsummary(cars)\n\n\n     speed           dist       \n Min.   : 4.0   Min.   :  2.00  \n 1st Qu.:12.0   1st Qu.: 26.00  \n Median :15.0   Median : 36.00  \n Mean   :15.4   Mean   : 42.98  \n 3rd Qu.:19.0   3rd Qu.: 56.00  \n Max.   :25.0   Max.   :120.00  \n\nIncluding Plots\nYou can also embed plots, for example:\n\n\n\nNote that the echo = FALSE parameter was added to the code chunk to prevent printing of the R code that generated the plot.\n\n\n\n",
+      "last_modified": "2020-10-28T16:00:56-07:00"
+    },
+    {
+      "path": "index.html",
+      "title": "Melina Much",
+      "description": "Hello World!\n",
+      "author": [],
+      "contents": "\n\n\n\nI graduated from Francis Marion University with a B.A. in both Political Science and Economics in 2018. In 2018 I also began working toward my Ph.D. in Political Science at UC Irvine, where I am investigating statistical methods for the study of political behavior and attidues using the framework intersectionality and multidimensional identities (namely race and gender). I am studying under Dr. Ines Levin and Dr. Michael Tesler at UCI. I expect to graduate attain my Ph.D. by 2024.\nHere is my CV, enjoy this site! You will find tabs for my current endevours, including service projects such as the UCI Womxn’s Caucus, and UCI Political Science Methods and Coding Reading Group!\n\n\n\n",
+      "last_modified": "2020-10-28T16:00:56-07:00"
+    },
+    {
+      "path": "research.html",
+      "title": "Research",
+      "description": "Here are my past and current research projects.",
+      "author": [],
+      "contents": "\n\n\n\n",
+      "last_modified": "2020-10-28T16:00:57-07:00"
+    },
+    {
+      "path": "service.html",
+      "title": "Service",
+      "description": "Some additional details about the website",
+      "author": [],
+      "contents": "\nR Markdown\nThis is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see http://rmarkdown.rstudio.com.\nWhen you click the Knit button a document will be generated that includes both content as well as the output of any embedded R code chunks within the document. You can embed an R code chunk like this:\n\n\nsummary(cars)\n\n\n     speed           dist       \n Min.   : 4.0   Min.   :  2.00  \n 1st Qu.:12.0   1st Qu.: 26.00  \n Median :15.0   Median : 36.00  \n Mean   :15.4   Mean   : 42.98  \n 3rd Qu.:19.0   3rd Qu.: 56.00  \n Max.   :25.0   Max.   :120.00  \n\nIncluding Plots\nYou can also embed plots, for example:\n\n\n\nNote that the echo = FALSE parameter was added to the code chunk to prevent printing of the R code that generated the plot.\n\n\n\n",
+      "last_modified": "2020-10-28T16:00:58-07:00"
+    },
+    {
+      "path": "teaching.html",
+      "title": "Teaching",
+      "description": "Some additional details about the website",
+      "author": [],
+      "contents": "\nR Markdown\nThis is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see http://rmarkdown.rstudio.com.\nWhen you click the Knit button a document will be generated that includes both content as well as the output of any embedded R code chunks within the document. You can embed an R code chunk like this:\n\n\nsummary(cars)\n\n\n     speed           dist       \n Min.   : 4.0   Min.   :  2.00  \n 1st Qu.:12.0   1st Qu.: 26.00  \n Median :15.0   Median : 36.00  \n Mean   :15.4   Mean   : 42.98  \n 3rd Qu.:19.0   3rd Qu.: 56.00  \n Max.   :25.0   Max.   :120.00  \n\nIncluding Plots\nYou can also embed plots, for example:\n\n\n\nNote that the echo = FALSE parameter was added to the code chunk to prevent printing of the R code that generated the plot.\n\n\n\n",
+      "last_modified": "2020-10-28T16:00:58-07:00"
+    }
+  ],
+  "collections": []
+}
