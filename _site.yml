@@ -13,7 +13,7 @@ navbar:
     - text: "Awards"
       href: awards.html
     - text: "Womxn's Cacus"
-      href: womxns.html
+      href: womxns_caucus.html
     - text: "PS Coders"
       href: methods.html
     - text: "Contact Me"

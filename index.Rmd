@@ -20,7 +20,7 @@ knitr::opts_chunk$set(echo = FALSE)
 ```
 
 
-```{r profile_photo, fig.align='center', out.width="40%" }
+```{r profile_photo, fig.align='center', out.width="60%" }
 knitr::include_graphics(here::here("images","profile_photo.png"))
 ```
 

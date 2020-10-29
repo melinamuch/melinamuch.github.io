@@ -1,0 +1,19 @@
+---
+title: "Womxn's Caucus Info and Events"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+Our continued aim for the Political Science Womxn’s Caucus has been to serve as 
+a much-needed platform to engage with issues of diversity – race, gender, 
+sexuality, etc. – through the lens of intersectionality. In our third year of 
+the Womxn’s Caucus, we strive to strengthen our own department's support 
+of womxn graduate students and build new, diverse, 
+interdisciplinary connections within the School of Social Sciences. 
+As previously outlined, the Womxn’s Caucus serves a vital purpose in our 
+department as a space which empowers womxn graduate students—helping them 
+navigate their academic endeavors in a safe,comfortable environment that 
+validates their everyday struggles and fosters their growth and learning.
