@@ -1,5 +1,5 @@
 ---
-title: "Welcome to my Website!"
+title: "Melina Much - Personal Website"
 description: "Hello World! \n\nHere you will find a description of my research, and
   resources for my service projects such as the UCI Womxn's Caucus, and UCI's Quant
   and Coding Group.\n"
