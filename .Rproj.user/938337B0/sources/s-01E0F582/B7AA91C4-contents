@@ -2365,9 +2365,9 @@ code span.wa { color: #545454; font-weight: bold; font-style: italic; } /* Warni
 <a href="about.html">About</a>
 <a href="research.html">Research</a>
 <a href="awards.html">Awards</a>
-<a href="womxns_caucus.html">Womxn's Cacus</a>
+<a href="womxns_caucus.html">Womxn's Caucus</a>
 <a href="methods.html">PS Coders</a>
-<a href="Contact.html">Contact Me</a>
+<a href="contact_me.html">Contact Me</a>
 </div>
 <div class="nav-right">
 <a href="javascript:void(0);" class="nav-toggle">&#9776;</a>

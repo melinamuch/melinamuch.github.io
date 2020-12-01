@@ -3,9 +3,9 @@
     "path": "~/Desktop/melinamuch.github.io/_site.yml",
     "project_path": "_site.yml",
     "type": "yaml",
-    "hash": "0",
+    "hash": "1525783689",
     "contents": "",
-    "dirty": true,
+    "dirty": false,
     "created": 1606784188068.0,
     "source_on_save": false,
     "relative_order": 8,
@@ -14,11 +14,11 @@
         "scrollLine": "9"
     },
     "folds": "",
-    "lastKnownWriteTime": 1606784195,
+    "lastKnownWriteTime": 1606784355,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1606784237188,
+    "last_content_update": 1606784355399,
     "read_only": false,
     "read_only_alternatives": []
 }
