@@ -6,7 +6,7 @@
       "description": "My academic background, and who I am.",
       "author": [],
       "contents": "\nI graduated from Francis Marion University with a B.A. in both Political Science and Economics in 2018. In 2018 I also began working toward my Ph.D. in Political Science at UC Irvine, where I am investigating statistical methods for the study of political behavior and attidues using the framework intersectionality and multidimensional identities (namely race and gender). I am studying under Dr. Ines Levin and Dr. Michael Tesler at UCI. I expect to graduate attain my Ph.D. by 2024.\nHere is my CV, enjoy this site! You will find tabs for my current endevours, including service projects such as the UCI Womxn’s Caucus, and UCI Political Science Methods and Coding Reading Group!\n\n\n\n",
-      "last_modified": "2020-11-30T16:43:43-08:00"
+      "last_modified": "2020-11-30T16:50:19-08:00"
     },
     {
       "path": "contact_me.html",
@@ -14,7 +14,7 @@
       "description": "Some additional details about the website",
       "author": [],
       "contents": "\n\n\n\n",
-      "last_modified": "2020-11-30T16:43:43-08:00"
+      "last_modified": "2020-11-30T16:50:20-08:00"
     },
     {
       "path": "index.html",
@@ -22,7 +22,7 @@
       "description": "Hello World! \n\nHere you will find a description of my research, and resources for my service projects such as the UCI Womxn's Caucus, and UCI's Quant and Coding Group.\n",
       "author": [],
       "contents": "\n\n\n\n\n\n\n",
-      "last_modified": "2020-11-30T16:43:43-08:00"
+      "last_modified": "2020-11-30T16:50:21-08:00"
     },
     {
       "path": "Research.html",
@@ -30,7 +30,7 @@
       "description": "Here are my past and current research projects.",
       "author": [],
       "contents": "\nPapers and Working Papers\n“Multilevel Modeling for Intersectional Effects on Political Behavior” In progress solo-authored paper. Analyzes the use of multilevel Bayesian models for estimating the interrelated nature of race/gender/class in political behavior models. Estimated completion Summer 2020.\n“Intersectional Reckoning: Quantitative Methods and Political Behavior.” In progress solo-authored paper on quantitative methods, feminist theory, and Bayesian subjective priors. Estimated completion Fall 2020.\n“Where Machine Learning Meets Feminist Theory.” In progress solo-authored paper on political Twitter data lived experience, feminist theory and unsupervised machine learning algorithms. Estimated completion Winter 2020.\n“Self-Reliance and Political Participation: Rethinking Self Reliance.” In progress co-authored paper with Prof. Ines Levin, redefining self-reliance and its effects on political behavior using Stan programming and Bayesian analysis. Estimated completion Summer 2020.\n“Model-Based Clustering with Covariates & the Civic Voluntarism Model” In progress co-authored paper with Prof. Ines Levin, re-evaluating conventional wisdom on political participation through the use of finite mixture models. Estimated completion Summer 2020.\n“Gender and Race in the 2016 Presidential Election: An Intersectional Approach to Understanding Emotions and Political Participation.” Solo-authored paper addressing the ways in which race and gender frame the effects of anger and fear on political participation, in the context the 2016 election. Completed Fall 2019.\n\n\n\n",
-      "last_modified": "2020-11-30T16:46:09-08:00"
+      "last_modified": "2020-11-30T16:50:21-08:00"
     },
     {
       "path": "service.html",
@@ -38,7 +38,7 @@
       "description": "Some additional details about the website",
       "author": [],
       "contents": "\nR Markdown\nThis is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see http://rmarkdown.rstudio.com.\nWhen you click the Knit button a document will be generated that includes both content as well as the output of any embedded R code chunks within the document. You can embed an R code chunk like this:\n\n\nsummary(cars)\n\n\n     speed           dist       \n Min.   : 4.0   Min.   :  2.00  \n 1st Qu.:12.0   1st Qu.: 26.00  \n Median :15.0   Median : 36.00  \n Mean   :15.4   Mean   : 42.98  \n 3rd Qu.:19.0   3rd Qu.: 56.00  \n Max.   :25.0   Max.   :120.00  \n\nIncluding Plots\nYou can also embed plots, for example:\n\n\n\nNote that the echo = FALSE parameter was added to the code chunk to prevent printing of the R code that generated the plot.\n\n\n\n",
-      "last_modified": "2020-11-30T16:43:45-08:00"
+      "last_modified": "2020-11-30T16:50:22-08:00"
     },
     {
       "path": "womxns_caucus.html",
@@ -46,7 +46,7 @@
       "description": "I am the lead oranizer UCI's P.S. Womxn's Caucus.",
       "author": [],
       "contents": "\nOur continued aim for the Political Science Womxn’s Caucus has been to serve as a much-needed platform to engage with issues of diversity – race, gender, sexuality, etc. – through the lens of intersectionality. In our third year of the Womxn’s Caucus, we strive to strengthen our own department’s support of womxn graduate students and build new, diverse, interdisciplinary connections within the School of Social Sciences. As previously outlined, the Womxn’s Caucus serves a vital purpose in our department as a space which empowers womxn graduate students—helping them navigate their academic endeavors in a safe,comfortable environment that validates their everyday struggles and fosters their growth and learning. Please email me at mmuch@uci.edu or jtaghvai@uci.edu for invites to these events.\nEvent Schedule\nWelcome Event - November 6th 4:00 pm\nInvited Talk with Dr. Julia Jordan Zachery - December 8th\n\n\n\n",
-      "last_modified": "2020-11-30T16:43:45-08:00"
+      "last_modified": "2020-11-30T16:50:23-08:00"
     }
   ],
   "collections": []
