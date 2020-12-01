@@ -17,7 +17,7 @@ navbar:
     - text: "PS Coders"
       href: methods.html
     - text: "Contact Me"
-      href: Contact.html
+      href: contact_me.html
   logo:
     image: images/logo.png
 output: 
