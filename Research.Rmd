@@ -16,5 +16,5 @@ description: |
 
 **“Model-Based Clustering with Covariates & the Civic Voluntarism Model”** In progress co-authored paper with Prof. Ines Levin, re-evaluating conventional wisdom on political participation through the use of finite mixture models. Estimated completion Summer 2020. 
 
-**“Gender and Race in the 2016 Presidential Election: An Intersectional Approach to
-Understanding Emotions and Political Participation.”** Solo-authored paper addressing the ways in which race and gender frame the effects of anger and fear on political participation, in the context the 2016 election. Completed Fall 2019.
+**“Gender and Race in the 2016 Presidential Election: An Intersectional Approach to**
+**Understanding Emotions and Political Participation.”** Solo-authored paper addressing the ways in which race and gender frame the effects of anger and fear on political participation, in the context the 2016 election. Completed Fall 2019.
