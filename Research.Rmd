@@ -2,8 +2,6 @@
 title: "Research"
 ---
 
-***Papers and Working Papers***
-
 **“Multilevel Modeling for Intersectional Effects on Political Behavior”** In progress solo-authored paper. Analyzes the use of multilevel Bayesian models for estimating the interrelated nature of race/gender/class in political behavior models. Estimated completion Summer 2020. 
 
 **“Intersectional Reckoning: Quantitative Methods and Political Behavior.”** In progress solo-authored paper on quantitative methods, feminist theory, and Bayesian subjective priors. Estimated completion Fall 2020. 
