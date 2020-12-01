@@ -1,7 +1,5 @@
 ---
 title: "Womxn's Caucus"
-description: |
-  I am the lead oranizer UCI's P.S. Womxn's Caucus.
 ---
 
 Our continued aim for the Political Science Womxn’s Caucus has been to serve as 
