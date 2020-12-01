@@ -4,10 +4,6 @@ description: |
   I am the lead oranizer UCI's P.S. Womxn's Caucus.
 ---
 
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE)
-```
-
 Our continued aim for the Political Science Womxn’s Caucus has been to serve as 
 a much-needed platform to engage with issues of diversity – race, gender, 
 sexuality, etc. – through the lens of intersectionality. In our third year of 
