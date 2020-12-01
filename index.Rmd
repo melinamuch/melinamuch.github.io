@@ -1,5 +1,5 @@
 ---
-title: "Melina Much - Personal Website"
+title: "Fight for the things that you care about, but do it in a way that will lead others to join you. -RBG"
 description: "Hello World! \n\nHere you will find a description of my research, and
   resources for my service projects such as the UCI Womxn's Caucus, and UCI's Methods
   and Coding Group.\n"
