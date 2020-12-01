@@ -1,7 +1,5 @@
 ---
 title: "Research"
-description: |
-  Here are my past and current research projects.
 ---
 
 ***Papers and Working Papers***

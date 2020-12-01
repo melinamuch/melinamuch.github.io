@@ -1,7 +1,5 @@
 ---
 title: "Awards"
-description: |
-  The following are all of my awards and accomplishments.
 ---
 
 **Ford Fellowship Honorable Mention.** Spring 2020. Honorable mention for the prestigious Ford Fellowship on a project dealing with the ethical use if intersectional theory in studying Twitter data. 
