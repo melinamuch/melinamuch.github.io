@@ -1,5 +1,5 @@
 ---
-title: "Research"
+title: "Research1"
 ---
 
 **“Multilevel Modeling for Intersectional Effects on Political Behavior”** In progress solo-authored paper. Analyzes the use of multilevel Bayesian models for estimating the interrelated nature of race/gender/class in political behavior models. Estimated completion Summer 2020. 
