@@ -8,8 +8,8 @@ navbar:
   left:
     - text: "About"
       href: about.html
-    - text: "Research"
-      href: research.html
+    - text: "Projects"
+      href: projects.html
     - text: "Awards"
       href: awards.html
     - text: "Womxn's Caucus"
