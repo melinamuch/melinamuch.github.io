@@ -2,21 +2,9 @@
 title: "'Fight for the things that you care about, but do it in a way that will lead others to join you.' -RBG"
 description: "Here you will find a description of my research, and
   resources for my service projects such as the UCI Womxn's Caucus, and UCI's Methods
-  and Coding Group. I believe in rigorous Political Science research informed by feminst theory, and    research that works to make lives better. For me, this means quantitative research and data analysis that exposes opression, seeks to remedy structural inequality, and highlights the revolutionary power of marginalized groups."
+  and Coding Group. I believe in rigorous Political Science research on the influence of identity on public opinion and political behavior that is informed by feminst theory. For me, this means quantitative research methods and data analysis that exposes opression, seeks to remedy structural inequality, and highlights the revolutionary power of marginalized groups."
 site: distill::distill_website
 ---
-
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = FALSE)
-
-# Learn more about creating websites with Distill at:
-# https://rstudio.github.io/distill/website.html
-
-# Learn more about publishing to GitHub Pages at:
-# https://rstudio.github.io/distill/publish_website.html#github-pages
-
-```
-
 
 ```{r profile_photo, fig.align='center', out.width="60%" }
 knitr::include_graphics(here::here("images","profile_photo.png"))
