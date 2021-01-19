@@ -9,3 +9,18 @@ We are looking to embrace our collective knowledge to teach each other general m
 **Meeting Schedulue:**
 
 - _December 10th 3:00-4:00 PM on Github and Version Control_
+
+- _January 15th 12:00-1:30 PM on R Bootcamp_
+
+- _January 25th 2:00-3:00 PM on Easy Data Viz: Mia & Kyle_
+
+- _Februrary 22th 2:00-3:00 PM on R Markdown: Mia_
+
+- _March 22th 2:00-3:00 PM on Rvest: Paul Love_
+
+- _April 26th 2:00-3:00 PM on Network Analysis Intro: Ben & Uras_
+
+- _May 24th 2:00-3:00 PM on Causal Inference Methods_
+
+- _June 7th 2:00-3:00 PM on Statistical Significance Revolution_
+
