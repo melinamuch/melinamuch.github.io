@@ -14,13 +14,13 @@ We are looking to embrace our collective knowledge to teach each other general m
 
 - _January 25th 2:00-3:00 PM on Easy Data Viz: Mia & Kyle_
 
-- _Februrary 22th 2:00-3:00 PM on R Markdown: Mia_
+- _Februrary 22th 2:00-3:00 PM on Rvest: Paul Love_
 
-- _March 22th 2:00-3:00 PM on Rvest: Paul Love_
+- _March 22th 2:00-3:00 PM on Network Analysis Intro: Ben & Uras_
 
-- _April 26th 2:00-3:00 PM on Network Analysis Intro: Ben & Uras_
+- _April 26th 2:00-3:00 PM on Causal Inference Methods_
 
-- _May 24th 2:00-3:00 PM on Causal Inference Methods_
+- _May 24th 2:00-3:00 PM on Statistical Significance Revolution_
 
-- _June 7th 2:00-3:00 PM on Statistical Significance Revolution_
+- _June 7th 2:00-3:00 PM Regression for P.S.*_
 
