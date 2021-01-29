@@ -7,7 +7,7 @@ knitr::opts_chunk$set(echo = FALSE)
 ```
 
 I graduated from [Francis Marion University](https://www.fmarion.edu/) with a B.A. in both Political Science and Economics in 2018. I was a Blackwell Award recipient at FMU
-reflecting that I was the [top student](https://www.valleycenter.com/articles/local-woman-is-most-decorated-graduate-of-her-college/) student in my graduating class. In 2018 I also began working toward my Ph.D. in Political Science at [UC Irvine](https://www.polisci.uci.edu/), where I am investigating statistical methods for the study of political behavior and attidues using the framework intersectionality and multidimensional identities (namely race and gender). I am studying under [Dr. Ines Levin](https://sites.uci.edu/ilevin/) and [Dr. Michael Tesler](http://faculty.sites.uci.edu/mtesler/files/2018/02/cv_218.pdf) at UCI. I expect to attain my Ph.D. by 2024.
+reflecting that I was the [top student](https://www.valleycenter.com/articles/local-woman-is-most-decorated-graduate-of-her-college/) student in my graduating class. In 2018 I also began working toward my Ph.D. in Political Science at [UC Irvine](https://www.polisci.uci.edu/), where I am investigating statistical methods for the study of political behavior and attitudes using the framework intersectionality and multidimensional identities (namely race and gender). I am studying under [Dr. Ines Levin](https://sites.uci.edu/ilevin/) and [Dr. Michael Tesler](http://faculty.sites.uci.edu/mtesler/files/2018/02/cv_218.pdf) at UCI. I expect to attain my Ph.D. by 2024.
 
-Enjoy this site! You will find tabs for my current endevours, including service projects such as the UCI Womxn's Caucus, and UCI Political Science Methods and Coding Reading Group!
+Enjoy this site! You will find tabs for my current endeavors, including service projects such as the UCI Womxn's Caucus, and UCI Political Science Methods and Coding Reading Group!
 
